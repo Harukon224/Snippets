@@ -1,0 +1,1 @@
+DateTime.now().setLocale('ja').toFormat('yyyy-MM-dd(ccc) HH:mm:ss')
